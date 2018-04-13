@@ -1,0 +1,6 @@
+P000,Brownie Magico,Postre,2500
+P001,Criporro,Entrada,5000,
+P002,Torta de Marihuana,Postre,10000
+P003,Lasagna Magica,Plato Principal,5000
+P004,Pastel de Hierba,Plato Principal,6500
+P005,Hongos Magicos,Aperitivo,5000
